@@ -1,0 +1,7 @@
+[user]
+	name = sa11y1im
+	email = syihana@kyonggi.ac.kr
+[core]
+	autocrlf = true
+[init]
+	defaultBranch = main
